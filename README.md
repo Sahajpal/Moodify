@@ -66,6 +66,5 @@ Download it and put the csv in fer2013/fer2013/
 4) Smart homes
 
 # Issues & Suggestions
-
-If any issues and suggestions to me, you can create an [issue].https://github.com/Sahajpal/Moodify/issues.
+If any issues and suggestions to me, you can create an [issue](https://github.com/Sahajpal/Moodify/issues).
 Give me some stars if you like my work.
