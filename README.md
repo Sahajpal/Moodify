@@ -41,21 +41,15 @@ Download it and put the csv in fer2013/fer2013/
 <a id="p3"></a> 
 # Usage:
 Run the trainer to train your dataset by executing the command:- 
-
 python train_emotion_classifier.py
-
 in your command prompt/terminal.
 
 After installing the above directories and reaching to the downloaded folder you would be able to run Moodify by just entering 
-
 python Moodify.py
-
 in your command prompt/terminal.
 
 The program will create a window to display the scene capture by webcamera and a window representing the probabilities of 
-
 detected emotions. By pressing 'q' you would be able to cature your specific mood at the given time which will automatically play
-
 the playlist of songs relative to your mood.
 
 # Credits
