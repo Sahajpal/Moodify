@@ -67,6 +67,5 @@ Download it and put the csv in fer2013/fer2013/
 
 # Issues & Suggestions
 
-If any issues and suggestions to me, you can create an [issue](https://github.com/omar178/Emotion-recognition/issues).
-
-If you like this work please help me by giving me some stars.
+If any issues and suggestions to me, you can create an [issue].https://github.com/Sahajpal/Moodify/issues.
+Give me some stars if you like my work.
