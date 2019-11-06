@@ -1,6 +1,5 @@
 # Moodify
 Emotion recognition and playing of custom build playlists of songs to lift up your mood.
-# Project Name : Emotion-recognition
 # Table of Content :
 1.[Description](#p1)
 
@@ -9,14 +8,6 @@ Emotion recognition and playing of custom build playlists of songs to lift up yo
 3.[Usage](#p3)
 
 4.[Dataset](#p4)
-
-
-
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/Happy.PNG)
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/angry.PNG)
-
-
-
 
 <a id="p1"></a> 
 # Description:
@@ -29,6 +20,8 @@ Emotion recognition is a technique used in software that allows a program to "re
 
 <a id="p2"></a> 
 # Installations:
+-tensorflow
+
 -keras
 
 -imutils
