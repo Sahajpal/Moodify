@@ -12,11 +12,7 @@ Emotion recognition and playing of custom build playlists of songs to lift up yo
 <a id="p1"></a> 
 # Description:
 
-Our Human face is having a mixed emotions so we are to demonstrate the probabilities of these emotions that we have.
-
-## What does Emotion Recognition mean?
-
-Emotion recognition is a technique used in software that allows a program to "read" the emotions on a human face using advanced image processing. Companies have been experimenting with combining sophisticated algorithms with image processing techniques that have emerged in the past ten years to understand more about what an image or a video of a person's face tells us about how he/she is feeling and not just that but also showing the probabilities of mixed emotions a face could has.
+We are morons driven by our mood to make decisions whether to work or not regardless of it's necessity. So we built moodify to modify your mood as per the current occasion. Your facial expression is a consequence of your mood and therefore we shall detect your emotion and the play songs that shall rejuvinate your mood so that you could maximize your productivity.
 
 <a id="p2"></a> 
 # Installations:
@@ -57,10 +53,17 @@ Download it and put the csv in fer2013/fer2013/
 
 
 # Credits
-This work is inspired from [this](https://github.com/oarriaga/face_classification) great work and the resources of Adrian Rosebrock helped me alot!.
+1) www.kaggle.com for dataset.
+2) Raghav Vashisht and Milind for Linux support
+3) https://github.com/omar178/Emotion-recognition.git
 
-# Ongoing 
-Draw emotions faces next to the detected face.
+
+
+# Future Plans
+1) Improving Accuracy
+2) Converison to app
+3) Auto Detecting Cameras
+4) Smart homes
 
 # Issues & Suggestions
 
