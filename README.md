@@ -26,31 +26,21 @@ We are morons driven by our mood to make decisions whether to work or not regard
 
 -numpy
 
-<a id="p3"></a> 
-# Usage:
-
-The program will creat a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions.
-
-> Demo
-
-python real_time_video.py
-
-You can just use this with the provided pretrained model i have included in the path written in the code file, i have choosen this specificaly since it scores the best accuracy, feel free to choose any but in this case you have to run the later file train_emotion_classifier
-> If you just want to run this demo, the following content can be skipped
-- Train
-
-- python train_emotion_classifier.py
-
-
 <a id="p4"></a> 
 # Dataset:
-
 I have used [this](https://www.kaggle.com/c/3364/download-all) dataset
-
 Download it and put the csv in fer2013/fer2013/
+(-fer2013 emotion classification test accuracy: 66%)
 
--fer2013 emotion classification test accuracy: 66%
-
+<a id="p3"></a> 
+# Usage:
+Run the trainer to train your dataset by executing the command:- 
+python train_emotion_classifier.py
+in your command prompt/terminal.
+After installing the above directories and reaching to the downloaded folder you would be able to run Moodify by just entering 
+python Moodify.py
+in your command prompt/terminal.
+The program will create a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions. By pressing 'q' you would be able to cature your specific mood at the given time which will automatically play the playlist of songs relative to your mood.
 
 # Credits
 1) www.kaggle.com for dataset.
