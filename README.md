@@ -55,7 +55,6 @@ the playlist of songs relative to your mood.
 # Credits
 1) www.kaggle.com for dataset.
 2) Raghav Vashisht and Milind for Linux support
-3) https://github.com/omar178/Emotion-recognition.git
 
 # Future Plans
 1) Improving Accuracy
