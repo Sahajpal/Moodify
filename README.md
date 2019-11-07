@@ -1,4 +1,3 @@
-# Moodify
 Emotion recognition and playing of custom build playlists of songs to lift up your mood.
 # Table of Content :
 1.[Description](#p1)
@@ -54,7 +53,7 @@ the playlist of songs relative to your mood.
 
 # Credits
 1) www.kaggle.com for dataset.
-2) Raghav Vashisht and Milind Pathak for Linux support
+2) [Raghav Vashisht](https://github.com/dramikei) and Milind Pathak for Linux support
 
 # Future Plans
 1) Improving Accuracy
