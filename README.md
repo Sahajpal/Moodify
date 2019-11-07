@@ -54,7 +54,7 @@ the playlist of songs relative to your mood.
 
 # Credits
 1) www.kaggle.com for dataset.
-2) Raghav Vashisht and Milind for Linux support
+2) Raghav Vashisht and Milind Pathak for Linux support
 
 # Future Plans
 1) Improving Accuracy
