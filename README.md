@@ -62,7 +62,8 @@ the playlist of songs relative to your mood.
 2) Converison to app
 3) Auto Detecting Cameras
 4) Smart homes
-5) Work
+5) Better Playlist
 # Issues & Suggestions
 If any issues and suggestions to me, you can create an [issue](https://github.com/Sahajpal/Moodify/issues).
 Give me some stars if you like my work.
+
