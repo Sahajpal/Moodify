@@ -1,4 +1,4 @@
-# Moodify:-
+# Moodify:-A Great Project
 
 Emotion recognition and playing of custom build playlists of songs to lift up your mood.
 # Table of Content :
@@ -62,7 +62,7 @@ the playlist of songs relative to your mood.
 2) Converison to app
 3) Auto Detecting Cameras
 4) Smart homes
-
+5) Work
 # Issues & Suggestions
 If any issues and suggestions to me, you can create an [issue](https://github.com/Sahajpal/Moodify/issues).
 Give me some stars if you like my work.
