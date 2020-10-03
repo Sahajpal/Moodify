@@ -1,4 +1,4 @@
-# Moodify:-A Great Project
+# Moodify:-A Great Project but needs improvement
 
 Emotion recognition and playing of custom build playlists of songs to lift up your mood.
 # Table of Content :
